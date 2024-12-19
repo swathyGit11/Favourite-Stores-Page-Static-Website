@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg_container {
+    background-color: #894bca;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+
+.favoritestores_headline {
+    font-size: 23px;
+
+    font-family: bree serif;
+    color: #ffffff;
+    padding: 5px;
+    margin: 5px;
+}
+
+.favoritestores_image {
+    height: 150px;
+    width: 150px;
+}
+
+.bottom_card {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 15px;
+
+    background-color: #ffffff;
+    height: 500px;
+    width: 600px;
+}
+
+.selectyour_store_headline {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: bree serif;
+    color: #f780c3;
+    padding: 5px;
+    margin: 5px;
+}
+
+.company_name_headline {
+    font-size: 19px;
+    font-weight: bold;
+    font-family: bree serif;
+    color: #323f4b;
+    padding: 5px;
+    margin: 5px;
+}
+
+.company_description {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: bree serif;
+    color: #7b8794;
+    padding: 5px;
+    margin: 5px;
+}
+
+.company_images {
+    height: 60px;
+    width: 60px;
+}
+
+.company_details {
+    margin: 0px;
+}
